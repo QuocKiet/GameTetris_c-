@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\documents\mycode\tetris\tetris\source.cpp(232): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris.vcxproj -> E:\Documents\Mycode\Tetris\Debug\Tetris.exe
+  Tetris.vcxproj -> E:\Documents\Mycode\Tetris\Debug\Tetris.pdb (Partial PDB)
